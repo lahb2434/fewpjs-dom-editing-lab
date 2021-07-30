@@ -7,7 +7,7 @@ pids
 *.seed
 lib-cov
 build/Release
-node_modules
+node_modules/
 jspm_packages
 .npm
 .node_repl_history
